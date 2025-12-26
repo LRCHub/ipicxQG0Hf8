@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "キミコイ",
+  "base_artist": "FRUITS ZIPPER",
+  "createdAt": "2025-12-26T12:47:28.733440Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キミコイ",
+      "artist": "Vivid",
+      "has_synced": true,
+      "path": "select/01_キミコイ_Vivid.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キミコイ",
+      "artist": "FRUITS ZIPPER",
+      "has_synced": false,
+      "path": "select/pl_01_キミコイ_FRUITS_ZIPPER.txt"
+    }
+  ]
+}
