@@ -1,24 +1,32 @@
 {
   "version": 1,
-  "base_track": "キミコイ",
+  "base_track": "好き、お願い",
   "base_artist": "FRUITS ZIPPER",
-  "createdAt": "2025-12-26T12:48:05.196515Z",
+  "createdAt": "2025-12-30T09:22:48.248680Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "キミコイ",
-      "artist": "Vivid",
+      "title": "好き、お願い - Click the Like",
+      "artist": "FRUITS ZIPPER",
       "has_synced": true,
-      "path": "select/01_キミコイ_Vivid.lrc"
+      "path": "select/01_好き、お願い_-_Click_the_Like_FRUITS_ZIPPER.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "好き、お願い",
+      "artist": "FRUITS ZIPPER",
+      "has_synced": true,
+      "path": "select/02_好き、お願い_FRUITS_ZIPPER.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "キミコイ",
+      "title": "好き、お願い",
       "artist": "FRUITS ZIPPER",
       "has_synced": false,
-      "path": "select/pl_01_キミコイ_FRUITS_ZIPPER.txt"
+      "path": "select/pl_01_好き、お願い_FRUITS_ZIPPER.txt"
     }
   ]
 }
